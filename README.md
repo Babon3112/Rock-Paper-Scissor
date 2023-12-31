@@ -33,7 +33,7 @@ This project is a fun way to practice fundamental web development skills using H
 
 **Potential Extensions:**
 
-- **Enhanced UI:** Improve visual design and animations for a more appealing interface.
+- **Enhanced UI/Animations:** Improve visual design and add animations for a more engaging interface.
 - **Difficulty Levels:** Implement different difficulty levels for the computer opponent.
 - **Multiplayer Support:** Enable multiplayer functionality for users to play against each other online.
 - **History Tracking:** Record and display a history of moves and outcomes for reference.
